@@ -5,4 +5,7 @@
     <string name="not_a_member_yet">Not a member yet ?</string>
     <string name="username">Username</string>
     <string name="logo">logo</string>
+    <string name="surname">Surname</string>
+    <string name="name">Name</string>
+    <string name="birthday">Birthday</string>
 </resources>
