@@ -30,6 +30,20 @@
             android:inputType="date"
             android:hint="@string/birthday"
             />
+        <android.support.v7.widget.AppCompatRadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:layout_marginTop="30dp"
+            android:text="I agree with the terms and conditions."/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_marginTop="10dp"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimaryDark"
+            android:textColor="@color/colorAccent"
+            android:text="submit"/>
+
 
     </LinearLayout>
 </android.support.constraint.ConstraintLayout>
